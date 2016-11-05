@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_78e29aa60d2a370cf176316fb464a52f825fee59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ba020ce13eab3048a46ac8a4909cafdd7d16b594\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="019d20c887fa3fdb3e3559924860ead84cf15a5f">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_01a8c8557826ca8b070a76682eb89187584eb132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_70c429c91c5945da39740b4d263ef231b6e3a793\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3083b3f8afbc45b0a227cbd2b90ca9ecf20c17cd">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b1c3d8d9d1a57ad46342c9b1a1cef08261a4b8de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f89482562649493ef929f458e70318621ab633de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_0f15f266ca872081ac148797f18143db643a1a98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_515c2a87a9e8be40a5bad09236db6316958fc258\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_05df258c80492a306ef8a023332f7d38c27ba0c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_0eee6cbd15416b3c5ff8abe33d9e6df97c53fddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_d5231530cf87285e08df89d982d4ea54571a93cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cd43ee566b3f19313527f247f8311e39b7ea6a2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_56673f836e3101c6c8cbf12968ae845cff2d8d5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e47216f44b682a46ce4e9a26c1e6ca6a673da1fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_3aa8ff2bcd05e4830e79b0ee296d63282fa1ea56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_6ec5c8f38420fe141983f6a76b15dbe4e1238750\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\seba9\AndroidStudioProjects\Jeux\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d985f97ab86a1e5c0983db56fb30881df9709a1f\classes.dex" />
+    </item>
+
+</items>
