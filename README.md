@@ -3,4 +3,4 @@
 
 TODO :
 
-[] Créer le projet 
+[ ] Créer le projet 
